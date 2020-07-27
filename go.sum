@@ -49,6 +49,8 @@ github.com/Azure/azure-storage-blob-go v0.0.0-20190123011202-457680cc0804 h1:QjG
 github.com/Azure/azure-storage-blob-go v0.0.0-20190123011202-457680cc0804/go.mod h1:oGfmITT1V6x//CswqY2gtAHND+xIP64/qL7a5QJix0Y=
 github.com/Azure/draft v0.15.0 h1:9GVmAwNxusaU1FIsoIBFWYT9ivnHwOYD2Q6O5cJjl7E=
 github.com/Azure/draft v0.15.0/go.mod h1:zz7LXil5dfY7p0jR0+BFjSwYz8aIigRjYR4GQwaNGE0=
+github.com/Azure/draft v0.16.0 h1:UNaMHAvJzGrMmMWzC0F5zKFlmj4jeC58YZquMesQo2Q=
+github.com/Azure/draft v0.16.0/go.mod h1:zz7LXil5dfY7p0jR0+BFjSwYz8aIigRjYR4GQwaNGE0=
 github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78/go.mod h1:LmzpDX56iTiv29bbRTIsUNlaFfuhWRQBWjQdVyAevI8=
 github.com/Azure/go-autorest v13.3.1+incompatible h1:IwJyD1VqWPEbOfq50o1OV3JQr92uz8q/CCbcm9zvnsE=
 github.com/Azure/go-autorest v13.3.1+incompatible/go.mod h1:r+4oMnoxhatjLLJ6zxSWATqVooLgysK6ZNox3g/xq24=

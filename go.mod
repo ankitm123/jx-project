@@ -3,7 +3,7 @@ module github.com/jenkins-x/jx-project
 go 1.13
 
 require (
-	github.com/Azure/draft v0.15.0
+	github.com/Azure/draft v0.16.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/denormal/go-gitignore v0.0.0-20180713143441-75ce8f3e513c
