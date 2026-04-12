@@ -15,7 +15,7 @@ require (
 	github.com/jenkins-x/go-scm v1.15.1
 	github.com/jenkins-x/jx-api/v4 v4.8.1
 	github.com/jenkins-x/jx-helpers/v3 v3.10.1
-	github.com/jenkins-x/jx-logging/v3 v3.1.2
+	github.com/jenkins-x/jx-logging/v3 v3.1.3
 	github.com/jenkins-x/lighthouse-client v0.0.1610
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.9.1
@@ -88,7 +88,7 @@ require (
 	github.com/imdario/mergo v0.3.16 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jenkins-x/jx-kube-client/v3 v3.0.8 // indirect
-	github.com/jenkins-x/logrus-stackdriver-formatter v0.2.7 // indirect
+	github.com/jenkins-x/logrus-stackdriver-formatter v0.2.8 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
